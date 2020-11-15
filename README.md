@@ -1,5 +1,5 @@
-# powershell_ssh_script
+# powershell_scripts
 
-Script en Powershell para instalar el servicio SSH.
+Repo con scripts en Powershell.
 
 Testeado en Windows 10.
