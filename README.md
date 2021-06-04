@@ -1,5 +1,5 @@
 # powershell_scripts
 
-Repo con scripts en Powershell.
+Repo con scripts en CMD/Powershell.
 
 Testeado en Windows 10.
